@@ -1,4 +1,1 @@
-function handleAlert()
-{
-  alert(555);
-}
+alert(555);
