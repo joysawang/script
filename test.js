@@ -1,1 +1,6 @@
-alert(555);
+function handleAlert()
+{
+  alert(555);
+}
+
+handleAlert();
